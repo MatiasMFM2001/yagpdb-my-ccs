@@ -13,7 +13,7 @@
 
 {{/* USER VARIABLES */}}
 
-    {{/* Satff Roles */}}
+    {{/* Staff Roles */}}
         {{$Admins := cslice 673258482211749917}} {{/* IDs of your ADMINs Roles. Leave the "cslice" here even if you have only 1 role */}}
         {{$Mods := cslice 674429313097007106}} {{/* IDs of your MODs Roles. Leave the "cslice" here even if you have only 1 role */}}
         {{$MentionRoleID := 647298324734541827}} {{/* Role to be mentioned when a new ticket is opened */}}
